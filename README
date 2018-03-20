@@ -1,0 +1,6 @@
+git clone https://github.com/mariabernard/test_git.git
+
+# geany README &
+
+git add README
+git commit -m "add README" -- README
